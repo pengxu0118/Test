@@ -16,4 +16,8 @@ server分支上的第一次提交
 server分支上的第二次提交
 client分支第一次提交
 >>>>>>> client分支第一次提交
+<<<<<<< Updated upstream
 联系暂存区的使用-again
+=======
+第三次暂存
+>>>>>>> Stashed changes
